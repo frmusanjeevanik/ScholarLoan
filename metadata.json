@@ -1,0 +1,7 @@
+{
+  "name": "ScholarLoan",
+  "description": "A digital-first education loan app, designed to fund aspirations and build tomorrow. It offers a simple, friendly, and empowering journey for students and parents to secure educational financing.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
